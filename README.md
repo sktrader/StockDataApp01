@@ -13,4 +13,4 @@ In your `pom.xml` file, add the following dependencies to enable Swagger:
 Swagger UI will be available at:
 - `http://localhost:8080/swagger-ui.html`
 
-2. Open your browser and go to: [http://localhost:8080//swagger-ui.html](http://localhost:8080//swagger-ui.html).
+2. Open your browser and go to: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html).
