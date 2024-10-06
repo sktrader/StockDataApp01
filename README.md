@@ -30,6 +30,7 @@ spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 
 Access the H2 console by going to `http://localhost:8080/h2-console` after starting your application. You can use the credentials from the `application.properties` to log in.
 
+### Setup of Swagger in a Spring Boot Application
 ### 1. **Add Swagger Dependencies**
 In your `pom.xml` file, add the following dependencies to enable Swagger:
 
